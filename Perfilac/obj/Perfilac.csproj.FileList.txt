@@ -1,0 +1,17 @@
+bin\Debug\Perfilac.exe
+bin\Debug\Perfilac.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Perfilac.Form1.resources
+obj\Debug\Perfilac.Properties.Resources.resources
+obj\Debug\Perfilac.csproj.GenerateResource.Cache
+obj\Debug\Perfilac.exe
+obj\Debug\Perfilac.pdb
+obj\Debug\Perfilac.visual.Principal.resources
+obj\Debug\Perfilac.visual.Nuevo_Cliente.resources
+obj\Debug\Perfilac.visual.PagoCliente.resources
+bin\Debug\Perfilac.exe.config
+obj\Debug\Perfilac.visual.AgregarProductoVenta.resources
+obj\Debug\Perfilac.reportes.CrystalReport1.rpt
+obj\Debug\Perfilac.visual.VisorDeInforme.resources
+obj\Debug\Perfilac.reportes.ReporteClientes.rpt
+obj\Debug\Perfilac.reportes.ReporteVenta.rpt
